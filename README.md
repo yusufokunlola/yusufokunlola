@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yusuf Okunlola
 - 👀 I’m interested in Precision Agriculture
-- 🌱 I’m currently a Data Science Intern at OneCampus Academy
-- 💞️ I’m looking to collaborate on real life projects
+- 🌱 I’m currently a Data Science Associate at Prognoz.ai
+- 💞️ I’m available to collaborate on real-life projects
 - 📫 How to reach me - email: yusufokunlola@gmail.com and Twitter (www.twitter.com/yusufokunlola) 
 
 <!---

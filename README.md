@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yusuf Okunlola
 - 👀 I’m interested in applying data science to solving problems relating to agriculture, climate change and consulting
-- 🌱 I’m currently a Data Science Associate at Prognoz.ai
 - 💞️ I’m available to collaborate on real-life projects
 - 📫 How to reach me - email: yusufokunlola@gmail.com and Twitter (www.twitter.com/yusufokunlola) 
 

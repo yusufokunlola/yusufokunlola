@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 Yusuf Okunlola :technologist:
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on a supply chain project.
+- 🌱 I’m currently learning data science.
+- 👯 I’m looking to collaborate on projects on **climate change**.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yusufokunlola)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **yusufokunlola/yusufokunlola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

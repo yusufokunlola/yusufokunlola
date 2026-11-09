@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hello there 👋, Welcome to my GitHub page.</h1>
 
 ###
 
